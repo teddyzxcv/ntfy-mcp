@@ -67,7 +67,7 @@ This MCP server integrates seamlessly with the Model Context Protocol, acting as
 
 ## Dependencies: The Secret Sauce
 
-- [@modelcontextprotocol/sdk](https://github.com/modelcontextprotocol/sdk)
+- [@modelcontextprotocol/sdk](https://github.com/modelcontextprotocol/typescript-sdk)
 - [node-fetch](https://github.com/node-fetch/node-fetch)
 - [dotenv](https://github.com/motdotla/dotenv)
 - [zod](https://github.com/colinhacks/zod)
