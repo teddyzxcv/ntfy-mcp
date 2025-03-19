@@ -1,5 +1,5 @@
 {
-  "name": "cline-ntfy-mcp-server",
+  "name": "ntfy-mcp-server",
   "version": "1.0.0",
   "description": "An MCP server that sends ntfy notifications on task completion",
   "type": "module",
