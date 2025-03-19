@@ -1,6 +1,6 @@
-# ntfy-mcp-server: Your Friendly Task Completion Notifier
+# ntfy-mcp: Your Friendly Task Completion Notifier
 
-Welcome to ntfy-mcp-server, the MCP server that keeps you caffeinated and informed! 🚀☕️
+Welcome to ntfy-mcp, the MCP server that keeps you caffeinated and informed! 🚀☕️
 
 This handy little server integrates with the Model Context Protocol to send you delightful ntfy notifications whenever your AI assistant completes a task. Because let's face it - you deserve that tea break while your code writes itself.
 
@@ -8,7 +8,7 @@ This handy little server integrates with the Model Context Protocol to send you 
 
 ### Step 1: Clone & Navigate
 ```bash
-git clone https://github.com/teddyzxcv/ntfy-mcp-server.git
+git clone https://github.com/teddyzxcv/ntfy-mcp.git
 cd ntfy-mcp-server
 ```
 
