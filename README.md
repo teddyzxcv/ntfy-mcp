@@ -9,7 +9,7 @@ This handy little server integrates with the Model Context Protocol to send you 
 ### Step 1: Clone & Navigate
 ```bash
 git clone https://github.com/teddyzxcv/ntfy-mcp.git
-cd ntfy-mcp-server
+cd ntfy-mcp
 ```
 
 ### Step 2: Install 
