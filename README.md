@@ -35,7 +35,7 @@ npm start
 "ntfy-mcp": {
   "command": "node",
   "args": [
-    "~/path/to/ntfy-mcp/build/index.js"
+    "/path/to/ntfy-mcp/build/index.js"
   ],
   "env": {
     "NTFY_TOPIC": "<your topic name>"
