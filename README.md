@@ -1,12 +1,12 @@
 # ntfy-mcp: Your Friendly Task Completion Notifier
 
-<a href="https://glama.ai/mcp/servers/@teddyzxcv/ntfy-mcp">
-  <img width="380" height="200" src="https://glama.ai/mcp/servers/@teddyzxcv/ntfy-mcp/badge" />
-</a>
-
 Welcome to ntfy-mcp, the MCP server that keeps you caffeinated and informed! 🚀☕️
 
 This handy little server integrates with the Model Context Protocol to send you delightful ntfy notifications whenever your AI assistant completes a task. Because let's face it - you deserve that tea break while your code writes itself.
+
+<a href="https://glama.ai/mcp/servers/@teddyzxcv/ntfy-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@teddyzxcv/ntfy-mcp/badge" />
+</a>
 
 ## Getting Started: The Quick Brew Guide
 
