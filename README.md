@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/teddyzxcv-ntfy-mcp-badge.png)](https://mseep.ai/app/teddyzxcv-ntfy-mcp)
+
 # ntfy-mcp: Your Friendly Task Completion Notifier
 
 Welcome to ntfy-mcp, the MCP server that keeps you caffeinated and informed! 🚀☕️
